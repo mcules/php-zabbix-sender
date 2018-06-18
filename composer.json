@@ -1,11 +1,8 @@
 {
-    "name": "okitsu/zabbix-sender",
+    "name": "mcules/zabbix-sender",
     "type": "library",
-    "homepage": "https://github.com/okitsu/php-zabbix-sender",
+    "homepage": "https://github.com/mcules/php-zabbix-sender",
     "license": "unknown",
-    "authors": [
-        {"name": "okitsu", "homepage": "http://twitter.com/okt_t"}
-    ],
     "description": "Zabbix Sender Client implemented in Pure PHP",
     "keywords": ["zabbix", "monitoring"],
     "require": {
