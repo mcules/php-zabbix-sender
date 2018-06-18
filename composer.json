@@ -2,7 +2,7 @@
     "name": "mcules/zabbix-sender",
     "type": "library",
     "homepage": "https://github.com/mcules/php-zabbix-sender",
-    "license": "unknown",
+    "license": "proprietary",
     "description": "Zabbix Sender Client implemented in Pure PHP",
     "keywords": ["zabbix", "monitoring"],
     "require": {
